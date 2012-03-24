@@ -6,5 +6,5 @@
 #         them in SiriProxy's ~/.siriproxy/config.yml
 ############################################
 
-    - name: 'Magic8Ball'
-      git: 'git://github.com/Ponyboy47/siriproxy-magic8ball.git'
+    - name: 'iJokes'
+      git: 'git://github.com/SalmanBurhan/siriproxy-iJokes.git'
